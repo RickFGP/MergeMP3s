@@ -1,12 +1,17 @@
 
+
+
+#Merge selected mp3 files.
+
+#Draft version-- Documentation, codes style and refactoring are works in progress.
+#For compatibility and backup purposes.
+
 #Output --creates a new mp3 in same folder as mp3s selected by user.
 #        Output file is from merge of user-selected mp3 files.
 #         output file name based on name from first and last in selection.
 #Input   -- Prompt user to select multiple mp3 files from a folder.
 #Tested -- in python version python3.8
-#For compatibility and backup purposes.
-#Draft version-- Documentation, codes style and refactoring are works in progress.
-
+ 
 #notes before uploading to GitHub
 #     remove/refactor the line about sys variables  sys.path.insert since it links to an absolute path to my pip installation modules
 #     remove the above line and this
